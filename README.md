@@ -18,13 +18,13 @@ Widget de chat conversacional desarrollado como Web Component para integrarse f�
 **Versión específica (recomendado para producción):**
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/tu-usuario/lappiz-chat-widget@v1.0.0/dist/main.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/finticlappiz/lappiz-ia-widget@v1.0.0/dist/main.js"></script>
 ```
 
 **Última versión (auto-actualizable):**
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/tu-usuario/lappiz-chat-widget@latest/dist/main.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/finticlappiz/lappiz-ia-widget@latest/dist/main.js"></script>
 ```
 
 ### 2. Agregar el elemento HTML
@@ -59,7 +59,7 @@ El widget aparecerá como un botón flotante en la esquina inferior derecha.
 
     <!-- Cargar desde jsDelivr CDN -->
     <script
-      src="https://cdn.jsdelivr.net/gh/TU-USUARIO/lappiz-chat-widget@latest/dist/main.js"
+      src="https://cdn.jsdelivr.net/gh/finticlappiz/lappiz-ia-widget@latest/dist/main.js"
       type="module"
     ></script>
   </body>
