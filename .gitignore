@@ -1,3 +1,4 @@
+# Ignorar todo excepto la carpeta /dist y README
 *
 !.gitignore
 !README.md
