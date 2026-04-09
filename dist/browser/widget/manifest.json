@@ -1,0 +1,14 @@
+{
+    "schemaVersion": 1,
+    "updatedAt": "2026-04-09T00:00:00.000Z",
+    "stable": {
+        "version": "v1.0.0",
+        "path": "./versions/v1.0.0/main.js",
+        "integrity": ""
+    },
+    "previousStable": null,
+    "release": {
+        "channel": "stable",
+        "notes": "Actualiza solo este manifest para promover o rollback sin tocar clientes"
+    }
+}
